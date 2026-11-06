@@ -10,7 +10,6 @@
 
 An end-to-end sales and business analysis project based on Blinkit grocery data, implemented with **SQL, Python, and Power BI**. It examines overall sales performance, product performance, outlet performance, customer ratings and item visibility through data cleaning, KPI analysis, exploratory analysis and interactive reporting.
 
-**📊 Live report:** [Open in Power BI Service](YOUR_POWER_BI_LINK_HERE)
 
 [![Blinkit Power BI Dashboard](powerbi/screenshots/blinkit_dashboard.png)](powerbi/screenshots/blinkit_dashboard.png)
 
